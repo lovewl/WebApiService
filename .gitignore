@@ -1,0 +1,11 @@
+/.vs
+/BLL/bin
+/BLL/obj
+/IDAL/bin
+/IDAL/obj
+/Model/bin
+/Model/obj
+/SqlServerDAL/bin
+/SqlServerDAL/obj
+/WebApiService/bin
+/WebApiService/obj
