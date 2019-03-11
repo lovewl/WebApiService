@@ -14,7 +14,7 @@ namespace IDAL
         int Update(string id, T userInfo);
         int Update(IDbConnection database, IDbTransaction tran, string id, T userInfo);
         IList<T> GetAll();
-        T GetByID();
+        T GetByID(string id);
         IList<T> GetByWhere(string sqlwhere, string orderby);
     }
 }

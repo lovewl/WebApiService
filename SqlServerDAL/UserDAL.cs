@@ -30,7 +30,7 @@ namespace SqlServerDAL
             return userInfos;
         }
 
-        public UserInfo GetByID()
+        public UserInfo GetByID(string id)
         {
             throw new NotImplementedException();
         }
